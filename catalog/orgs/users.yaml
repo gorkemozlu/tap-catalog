@@ -1,0 +1,11 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gorkemo
+spec:
+  profile:
+    displayName: Gorkem Ozlu
+    email: noreply@vmware.com
+    picture: https://avatars.githubusercontent.com/u/45913400
+  memberOf: [tanzuplatform]
